@@ -6,4 +6,4 @@ server:
   port: 8770
 spring:
   application:
-    name: consumer2
+    name: consumer
